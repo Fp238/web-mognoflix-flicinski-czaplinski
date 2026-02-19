@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "65f000000000000000000001",
+    "tytul": "Oppenheimer",
+    "data_premiery": "2023-07-21",
+    "gatunki": ["Biograficzny", "Dramat"],
+    "rezyser": "Christopher Nolan",
+    "aktorzy": [
+      { "imie": "Cillian", "nazwisko": "Murphy" },
+      { "imie": "Emily", "nazwisko": "Blunt" }
+    ],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 152340,
+    "srednia_ocen": 8.7,
+    "liczba_ocen": 1245
+  },
+  {
+    "_id": "65f000000000000000000002",
+    "tytul": "Interstellar",
+    "data_premiery": "2014-11-07",
+    "gatunki": ["Sci-Fi", "Dramat"],
+    "rezyser": "Christopher Nolan",
+    "aktorzy": [{ "imie": "Matthew", "nazwisko": "McConaughey" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 245000,
+    "srednia_ocen": 8.6,
+    "liczba_ocen": 2000
+  },
+  {
+    "_id": "65f000000000000000000003",
+    "tytul": "Incepcja",
+    "data_premiery": "2010-07-16",
+    "gatunki": ["Sci-Fi", "Thriller"],
+    "rezyser": "Christopher Nolan",
+    "aktorzy": [{ "imie": "Leonardo", "nazwisko": "DiCaprio" }],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 300000,
+    "srednia_ocen": 8.8,
+    "liczba_ocen": 3100
+  },
+  {
+    "_id": "65f000000000000000000004",
+    "tytul": "Matrix",
+    "data_premiery": "1999-03-31",
+    "gatunki": ["Sci-Fi", "Akcja"],
+    "rezyser": "Lana Wachowski",
+    "aktorzy": [{ "imie": "Keanu", "nazwisko": "Reeves" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 410000,
+    "srednia_ocen": 8.5,
+    "liczba_ocen": 5000
+  },
+  {
+    "_id": "65f000000000000000000005",
+    "tytul": "Gladiator",
+    "data_premiery": "2000-05-05",
+    "gatunki": ["Historyczny", "Dramat"],
+    "rezyser": "Ridley Scott",
+    "aktorzy": [{ "imie": "Russell", "nazwisko": "Crowe" }],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 180000,
+    "srednia_ocen": 8.2,
+    "liczba_ocen": 1800
+  },
+  {
+    "_id": "65f000000000000000000006",
+    "tytul": "Avatar",
+    "data_premiery": "2009-12-18",
+    "gatunki": ["Sci-Fi", "Przygodowy"],
+    "rezyser": "James Cameron",
+    "aktorzy": [{ "imie": "Sam", "nazwisko": "Worthington" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 520000,
+    "srednia_ocen": 7.9,
+    "liczba_ocen": 4000
+  },
+  {
+    "_id": "65f000000000000000000007",
+    "tytul": "Parasite",
+    "data_premiery": "2019-05-30",
+    "gatunki": ["Thriller", "Dramat"],
+    "rezyser": "Bong Joon-ho",
+    "aktorzy": [{ "imie": "Song", "nazwisko": "Kang-ho" }],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 130000,
+    "srednia_ocen": 8.6,
+    "liczba_ocen": 1500
+  },
+  {
+    "_id": "65f000000000000000000008",
+    "tytul": "Joker",
+    "data_premiery": "2019-10-04",
+    "gatunki": ["Dramat", "Kryminalny"],
+    "rezyser": "Todd Phillips",
+    "aktorzy": [{ "imie": "Joaquin", "nazwisko": "Phoenix" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 210000,
+    "srednia_ocen": 8.3,
+    "liczba_ocen": 2500
+  },
+  {
+    "_id": "65f000000000000000000009",
+    "tytul": "Titanic",
+    "data_premiery": "1997-12-19",
+    "gatunki": ["Romans", "Dramat"],
+    "rezyser": "James Cameron",
+    "aktorzy": [{ "imie": "Leonardo", "nazwisko": "DiCaprio" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 600000,
+    "srednia_ocen": 7.8,
+    "liczba_ocen": 6000
+  },
+  {
+    "_id": "65f000000000000000000010",
+    "tytul": "The Dark Knight",
+    "data_premiery": "2008-07-18",
+    "gatunki": ["Akcja", "Kryminalny"],
+    "rezyser": "Christopher Nolan",
+    "aktorzy": [{ "imie": "Christian", "nazwisko": "Bale" }],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 480000,
+    "srednia_ocen": 9.0,
+    "liczba_ocen": 7000
+  },
+  {
+    "_id": "65f000000000000000000011",
+    "tytul": "Forrest Gump",
+    "data_premiery": "1994-07-06",
+    "gatunki": ["Dramat", "Komedia"],
+    "rezyser": "Robert Zemeckis",
+    "aktorzy": [{ "imie": "Tom", "nazwisko": "Hanks" }],
+    "typ_dostepu": "Public",
+    "liczba_odtworzen": 350000,
+    "srednia_ocen": 8.9,
+    "liczba_ocen": 6500
+  },
+  {
+    "_id": "65f000000000000000000012",
+    "tytul": "Whiplash",
+    "data_premiery": "2014-10-10",
+    "gatunki": ["Dramat", "Muzyczny"],
+    "rezyser": "Damien Chazelle",
+    "aktorzy": [{ "imie": "Miles", "nazwisko": "Teller" }],
+    "typ_dostepu": "Premium",
+    "liczba_odtworzen": 95000,
+    "srednia_ocen": 8.4,
+    "liczba_ocen": 1100
+  }
+]

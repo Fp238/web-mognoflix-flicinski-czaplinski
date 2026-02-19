@@ -1,0 +1,17 @@
+[
+  { "film_id": "65f000000000000000000001", "uzytkownik_id": "65f100000000000000000001", "ocena": 9, "komentarz": "Genialny film!", "data_dodania": "2026-02-10" },
+  { "film_id": "65f000000000000000000002", "uzytkownik_id": "65f100000000000000000002", "ocena": 8, "komentarz": "Świetne sci-fi.", "data_dodania": "2026-02-11" },
+  { "film_id": "65f000000000000000000003", "uzytkownik_id": "65f100000000000000000003", "ocena": 10, "komentarz": "Arcydzieło!", "data_dodania": "2026-02-12" },
+  { "film_id": "65f000000000000000000004", "uzytkownik_id": "65f100000000000000000004", "ocena": 8, "komentarz": "Klasyk kina.", "data_dodania": "2026-02-12" },
+  { "film_id": "65f000000000000000000005", "uzytkownik_id": "65f100000000000000000005", "ocena": 7, "komentarz": "Bardzo dobry.", "data_dodania": "2026-02-13" },
+  { "film_id": "65f000000000000000000006", "uzytkownik_id": "65f100000000000000000006", "ocena": 8, "komentarz": "Efekty wizualne top.", "data_dodania": "2026-02-13" },
+  { "film_id": "65f000000000000000000007", "uzytkownik_id": "65f100000000000000000007", "ocena": 9, "komentarz": "Zaskakujący.", "data_dodania": "2026-02-14" },
+  { "film_id": "65f000000000000000000008", "uzytkownik_id": "65f100000000000000000008", "ocena": 8, "komentarz": "Mocny dramat.", "data_dodania": "2026-02-14" },
+  { "film_id": "65f000000000000000000009", "uzytkownik_id": "65f100000000000000000009", "ocena": 7, "komentarz": "Klasyczna historia.", "data_dodania": "2026-02-15" },
+  { "film_id": "65f000000000000000000010", "uzytkownik_id": "65f100000000000000000010", "ocena": 10, "komentarz": "Najlepszy Batman.", "data_dodania": "2026-02-15" },
+  { "film_id": "65f000000000000000000011", "uzytkownik_id": "65f100000000000000000011", "ocena": 9, "komentarz": "Wzruszający.", "data_dodania": "2026-02-16" },
+  { "film_id": "65f000000000000000000012", "uzytkownik_id": "65f100000000000000000012", "ocena": 8, "komentarz": "Intensywny film.", "data_dodania": "2026-02-16" },
+  { "film_id": "65f000000000000000000003", "uzytkownik_id": "65f100000000000000000013", "ocena": 9, "komentarz": "Rewelacja.", "data_dodania": "2026-02-17" },
+  { "film_id": "65f000000000000000000002", "uzytkownik_id": "65f100000000000000000014", "ocena": 7, "komentarz": "Trochę za długi.", "data_dodania": "2026-02-17" },
+  { "film_id": "65f000000000000000000001", "uzytkownik_id": "65f100000000000000000015", "ocena": 9, "komentarz": "Nolan w formie.", "data_dodania": "2026-02-18" }
+]
