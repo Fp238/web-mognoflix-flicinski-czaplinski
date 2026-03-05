@@ -35,7 +35,7 @@
     "aktorzy": [{ "imie": "Leonardo", "nazwisko": "DiCaprio" }],
     "typ_dostepu": "Premium",
     "liczba_odtworzen": 300000,
-    "srednia_ocen": 8.8,
+    "srednia_ocen": 5.8,
     "liczba_ocen": 3100
   },
   {
@@ -59,7 +59,7 @@
     "aktorzy": [{ "imie": "Russell", "nazwisko": "Crowe" }],
     "typ_dostepu": "Premium",
     "liczba_odtworzen": 180000,
-    "srednia_ocen": 8.2,
+    "srednia_ocen": 2.2,
     "liczba_ocen": 1800
   },
   {
@@ -83,7 +83,7 @@
     "aktorzy": [{ "imie": "Song", "nazwisko": "Kang-ho" }],
     "typ_dostepu": "Premium",
     "liczba_odtworzen": 130000,
-    "srednia_ocen": 8.6,
+    "srednia_ocen": 3.6,
     "liczba_ocen": 1500
   },
   {
@@ -143,7 +143,7 @@
     "aktorzy": [{ "imie": "Miles", "nazwisko": "Teller" }],
     "typ_dostepu": "Premium",
     "liczba_odtworzen": 95000,
-    "srednia_ocen": 8.4,
+    "srednia_ocen": 6.4,
     "liczba_ocen": 1100
   }
 ]
