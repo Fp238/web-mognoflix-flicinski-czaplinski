@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-db = db.getSiblingDB('filmydb');
+db = db.getSiblingDB('filmyDB');
 
 db.filmy.deleteMany({});
 db.uzytkownicy.deleteMany({});
