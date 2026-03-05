@@ -1,3 +1,18 @@
+# Uruchomienie projektu Mongoflix
+
+Aby uruchomić **Mongoflix**, należy otworzyć terminal a następnie wprowadzić odpowiednie komendy. 
+>**1. Komenda uruchamiająca bazę danych**
+>```bash
+>mongosh scripts/seed.js
+>```
+>___
+> **2. Komenda wyświetlająca wyniki zapytań**
+>```bash
+>mongosh queries/analysis.mongodb.js
+>```
+
+
+---
 
 # 🎬 Mongoflix - Projekt Warstwy Danych
 
